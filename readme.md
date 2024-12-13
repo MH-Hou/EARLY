@@ -1,7 +1,7 @@
 # ''Give Me an Example Like This'': Episodic Active Reinforcement Learning from Demonstrations
 [Muhan Hou](https://scholar.google.com/citations?user=iFKR-JAAAAAJ&hl=en), [Koen Hindriks](https://koenhindriks.eu/), [Guszti Eiben](https://www.cs.vu.nl/~gusz/), [Kim Baraka](https://www.kimbaraka.com/)
 
-## Paper information [link](https://dl.acm.org/doi/10.1145/3687272.3688298)
+## Paper information [[link]](https://dl.acm.org/doi/10.1145/3687272.3688298)
 ![Overview](/figs/git.png) 
 
 In this work, we introduce EARLY ((Episodic Active Learning from demonstration querY)), a novel LfD algorithm that actively queries expert demonstrations. By leveraging trajectory-based uncertainty, EARLY optimizes when and what episodic demonstrations to query, making the learning process faster, smarter, and more human-friendly.
