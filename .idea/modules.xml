@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data_analysis/.idea/data_analysis.iml" filepath="$PROJECT_DIR$/../data_analysis/.idea/data_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../human_robot_interaction_data/.idea/human_robot_interaction_data.iml" filepath="$PROJECT_DIR$/../human_robot_interaction_data/.idea/human_robot_interaction_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../miniforge3/envs/py38/lib/python3.8/site-packages/panda_gym/.idea/panda_gym.iml" filepath="$PROJECT_DIR$/../miniforge3/envs/py38/lib/python3.8/site-packages/panda_gym/.idea/panda_gym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pybullet-planning/.idea/pybullet-planning.iml" filepath="$PROJECT_DIR$/../pybullet-planning/.idea/pybullet-planning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robot_client/.idea/robot_client.iml" filepath="$PROJECT_DIR$/../robot_client/.idea/robot_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rrt-algorithms/.idea/rrt-algorithms.iml" filepath="$PROJECT_DIR$/../rrt-algorithms/.idea/rrt-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/suboptimal_teacher.iml" filepath="$PROJECT_DIR$/.idea/suboptimal_teacher.iml" />
+    </modules>
+  </component>
+</project>
