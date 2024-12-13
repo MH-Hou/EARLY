@@ -7,11 +7,12 @@ This paper introduces EARLY (Episodic Active Learning from demonstration querY),
 [Paper link:]([https://markdown.com.cn](https://dl.acm.org/doi/10.1145/3687272.3688298))
 
 ## Try it out!
-To run the script for training using our method (e.g., for the task of nav-1). run:
-$ python3 activesac_nav.py --task_name=nav_1 --method=active_sac
 
-Similarly, to run the script for training using DDPG-LfD, run:
-$ python3 ddpglfd_nav.py --task_name=nav_1 --method=ddpg_lfd
+1. To run the script for training using our method (e.g., for the task of nav-1). run:
+```$ python3 activesac_nav.py --task_name=nav_1 --method=active_sac```
 
-To run the script for training using I-ARLD, run:
-$ python3 isolated_active.py --task_name=nav_1 --method=isolated_active
+2. Similarly, to run the script for training using DDPG-LfD, run:
+```$ python3 ddpglfd_nav.py --task_name=nav_1 --method=ddpg_lfd```
+
+3. To run the script for training using I-ARLD, run:
+```$ python3 isolated_active.py --task_name=nav_1 --method=isolated_active```
