@@ -1,6 +1,5 @@
 # ''Give Me an Example Like This'': Episodic Active Reinforcement Learning from Demonstrations
-[Muhan Hou](https://scholar.google.com/citations?user=iFKR-JAAAAAJ&hl=en), [Koen Hindriks](https://koenhindriks.eu/), [Guszti Eiben](https://www.cs.vu.nl/~gusz/), [Kim Baraka](https://www.kimbaraka.com/) \
-[Paper link](https://dl.acm.org/doi/10.1145/3687272.3688298)
+[Muhan Hou](https://scholar.google.com/citations?user=iFKR-JAAAAAJ&hl=en), [Koen Hindriks](https://koenhindriks.eu/), [Guszti Eiben](https://www.cs.vu.nl/~gusz/), [Kim Baraka](https://www.kimbaraka.com/)
 
 ## Paper information
 ![Overview](/figs/git.png) 
@@ -15,6 +14,9 @@ In this work, we introduce EARLY ((Episodic Active Learning from demonstration q
 - Faster Learning: EARLY converges up to 50% faster than state-of-the-art baselines in challenging navigation tasks.
 - Improved User Experience: A pilot user study demonstrated significantly reduced cognitive load and time demands for human demonstrators.
 - Trajectory-Based Queries: Unlike traditional methods that rely on isolated state-action pairs, EARLY uses episodic demonstrations, enhancing both learning efficiency and teaching effectiveness.
+
+### To check out our paper:
+[Paper link](https://dl.acm.org/doi/10.1145/3687272.3688298)
 
 ## Try it out!
 
