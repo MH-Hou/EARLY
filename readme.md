@@ -8,8 +8,7 @@ This paper introduces EARLY (Episodic Active Learning from demonstration querY),
 
 ## Try it out!
 
-1. To run the script for training using our method (e.g., for the task of nav-1). run:
-   
+1. To run the script for training using our method (e.g., for the task of nav-1). run: \
 ```$ python3 activesac_nav.py --task_name=nav_1 --method=active_sac```
 
 2. Similarly, to run the script for training using DDPG-LfD, run:
