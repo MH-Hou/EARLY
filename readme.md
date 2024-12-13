@@ -1,5 +1,5 @@
 # ''Give Me an Example Like This'': Episodic Active Reinforcement Learning from Demonstrations
-[Muhan Hou](https://scholar.google.com/citations?user=iFKR-JAAAAAJ&hl=en), [Koen Hindriks](https://koenhindriks.eu/), [Guszti Eiben](https://www.cs.vu.nl/~gusz/), [Kim Baraka](https://www.kimbaraka.com/)
+[Muhan Hou](https://scholar.google.com/citations?user=iFKR-JAAAAAJ&hl=en), [Koen Hindriks](https://koenhindriks.eu/), [Guszti Eiben](https://www.cs.vu.nl/~gusz/), [Kim Baraka](https://www.kimbaraka.com/) \
 [Paper link](https://dl.acm.org/doi/10.1145/3687272.3688298)
 
 ## Paper information
